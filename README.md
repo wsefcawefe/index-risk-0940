@@ -28,11 +28,11 @@
 |---|---|
 | `最终风控方案_说明文档.md` | 规则、效果、每个数据文件的来源、每组特征的算法、训练方式、未来函数审计结果 |
 | `风控停手_累计超额.png` | 累计收益与四档阈值的累计超额 |
-| [Releases](../../releases) → `data-20260918` | 数据：3 个 zip 分卷 + `md5.txt` |
+| [Releases](../../releases) → `riskcontrol` | 数据：3 个 zip 分卷 + `md5.txt` |
 
 ## 数据
 
-在 [Releases](../../releases) 下载 `index_risk_data_part1of3.zip`、`part2of3`、`part3of3` 和 `md5.txt`，核对 md5 后把三个 zip 解压到同一个目录，得到：
+在 [Releases](https://github.com/wsefcawefe/index-risk-0940/releases/tag/riskcontrol) 下载 `index_risk_data_part1of3.zip`、`part2of3`、`part3of3` 和 `md5.txt`，核对 md5 后把三个 zip 解压到同一个目录，得到：
 
 ```
 data/
